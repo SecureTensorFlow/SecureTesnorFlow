@@ -126,7 +126,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/SecureTensorFlow/SecureTensorFlow.git
+'''git clone https://github.com/SecureTensorFlow/SecureTensorFlow.git
 cd SecureTensorFlow
 
 
